@@ -1,0 +1,10 @@
+{
+  "app": {
+    "name": "zx-cfms",
+    "displayName": "化妆品配方管理系统",
+    "description": "ZX_CosmeticFormulationManagementSystem 化妆品配方管理系统",
+    "author": "追星 ZhuiXinger",
+    "version": "0.0.2",
+    "buildTime": "2026-05-12"
+  }
+}
