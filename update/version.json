@@ -14,8 +14,8 @@
   "update_content": [
     "1. 更新了使用目的上传解析文件逻辑效果，现在仅支持Excel模板文件",
     "2. 更新了《已使用化妆品原料目录》Ⅰ的上传解析文件逻辑效果，现在仅支持Excel模板文件",
-	  "3. 更新了《已上市产品原料使用信息》的补充数据解析",
-	  "4. 优化数据库操作性能",
+    "3. 更新了《已上市产品原料使用信息》的补充数据解析",
+    "4. 优化数据库操作性能",
     "5. 优化用户操作体验，简化复杂操作流程，界面响应速度提升",
     "6. 优化软件加载机制，减少启动时间，降低内存占用",
     "7. 完善提示文案，优化交互逻辑，提升使用便捷度",
@@ -23,9 +23,8 @@
     "9. 新增账号分级系统，避免数据库误操作"
   ],
   "download": {
-    "version_json_url": "https://gitee.com/ZhuiXinger/zx-cfms/raw/master/update/version.json",
+    "version_json_url": "https://github.com/ZhuiXinger/zx-cfms/blob/main/update/version.json",
     "github_version_json_url": "https://github.com/ZhuiXinger/zx-cfms/blob/main/update/version.json",
-    "gitee_url": "https://gitee.com/ZhuiXinger/zx-cfms/tree/master/update/zx-cfms",
-    "github_url": "https://github.com/ZhuiXinger/zx-cfms/tree/main/update/zx-cfms"
+    "github_url": "https://release-assets.githubusercontent.com/github-production-release-asset/1238409304/da25ff5a-8724-4daf-bc2b-8bc29bd60ca0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-15T01%3A21%3A16Z&rscd=attachment%3B+filename%3DV0.02.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-15T00%3A21%3A09Z&ske=2026-05-15T01%3A21%3A16Z&sks=b&skv=2018-11-09&sig=DkGhwJFTZsdTsZnQPfkl%2FljIcadNJ%2BzyRGX8mI1kTOg%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3ODgwOTQzOSwibmJmIjoxNzc4ODA1ODM5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.3b_9UPmPzRvdxdSNNw70addNLTKfP98rAICdTmoFfuE&response-content-disposition=attachment%3B%20filename%3DV0.02.zip&response-content-type=application%2Foctet-stream"
   }
 }
